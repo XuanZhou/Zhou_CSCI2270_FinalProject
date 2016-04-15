@@ -1,6 +1,6 @@
 # Zhou_CSCI2270_FinalProject
 
-This the final project for CSCI-2270-14
+This the final project for CSCI-2270-16
 
 My work is crating a solving sudoko program. 
 
